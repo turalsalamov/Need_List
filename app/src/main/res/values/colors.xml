@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="fab">#CDDC39</color>
+    <color name="recycler">#FFFFFF</color>
+    <color name="card_background">#F9A825</color>
+    <color name="pop">#EEFF41</color>
+    <color name="text">#263238</color>
+    <color name="save_cancel">#FFB300</color>
+    <color name="toolbar">#4DB6AC</color>
+</resources>
